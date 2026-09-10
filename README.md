@@ -165,5 +165,3 @@ This project provides practical experience in loading, exploring, analyzing, and
 
 **Data Analysis and Visualization Project**
 
-```
-```
